@@ -1,15 +1,14 @@
 <!-- =======================
         HEADER BANNER
 ======================= -->
-<!-- Replace this with your own banner image stored in your repo -->
 <p align="center">
-  <img src="https://github.com/maesaguil/maesaguil/raw/main/assets/banner.png" width="100%" alt="Mae Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=16A34A&text=Mae%20%7C%20Software%20Engineer&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40&desc=building%20cool%20things%20in%20a%20cozy%20corner%20of%20the%20internet&descAlignY=75&descSize=14" />
 </p>
 
-<h1 align="center">🌿 Mae | Software Engineer, Maker, Lifter 🪴</h1>
+<h1 align="center">🪴 🪴 🪴</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=16A34AFF&center=true&vCenter=true&width=520&lines=Problem+solver.;Powerlifter.;Maker.;Always+building+something.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=520&lines=Problem+solver.;Powerlifter.;Maker.;Plant+enthusiast.;Always+building+something."/>
 </p>
 
 ---
@@ -94,9 +93,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=16A34A&text=Currently%20watering:%20side%20projects%20%26%20new%20ideas&fontColor=ffffff&section=header&fontSize=18"/>
 </p>
 
-- 🪴 Refactoring code like pruning a plant: small cuts, healthier growth  
-- ☕ Best bugs are solved with good coffee and good logs  
-- 📚 Forever learning: System design, quality code, cloud, and ML  
+- 🪴 Refactoring code is like pruning a plant: small cuts, healthier growth  
+- ☕ Tough bugs are solved with good coffee and good logs  
+- 📚 Forever learning: System design, quality code, cloud, devops and ML  
 
 ---
 
@@ -112,7 +111,7 @@
 ---
 
 <p align="center">
-  <em>Soft aesthetic. Sharp logic. Growing one commit at a time. 🌿</em>
+  <em>Growing one commit at a time. 🌿</em>
 </p>
 
 <p align="center">
